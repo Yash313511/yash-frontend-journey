@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia;
+}
+
+.poem {
+    color: #A52A2A;
+}
+
+h1, h2, h3, h4, h5, h6, .poem {
+    text-align: center;
+}
+
+.poem {
+    color: red;
+    line-height: 30px;
+}
+
+.author {
+    color: black;
+}
+a {
+    color: rgb(0, 128, 0);
+    text-decoration: none;
+}
+
+button {
+    background-color: white;
+    color: blueviolet;
+}
+
+textarea {
+    color : red;
+}
